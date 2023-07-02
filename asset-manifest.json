@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/raviranjan1122/webpage_dev/static/css/main.073c9b0a.css",
-    "main.js": "/raviranjan1122/webpage_dev/static/js/main.71d5f082.js",
+    "main.css": "/raviranjan1122/webpage_dev/static/css/main.184ce579.css",
+    "main.js": "/raviranjan1122/webpage_dev/static/js/main.1acf3a9a.js",
     "static/js/787.28cb0dcd.chunk.js": "/raviranjan1122/webpage_dev/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/raviranjan1122/webpage_dev/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/raviranjan1122/webpage_dev/index.html",
-    "main.073c9b0a.css.map": "/raviranjan1122/webpage_dev/static/css/main.073c9b0a.css.map",
-    "main.71d5f082.js.map": "/raviranjan1122/webpage_dev/static/js/main.71d5f082.js.map",
+    "main.184ce579.css.map": "/raviranjan1122/webpage_dev/static/css/main.184ce579.css.map",
+    "main.1acf3a9a.js.map": "/raviranjan1122/webpage_dev/static/js/main.1acf3a9a.js.map",
     "787.28cb0dcd.chunk.js.map": "/raviranjan1122/webpage_dev/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.71d5f082.js"
+    "static/css/main.184ce579.css",
+    "static/js/main.1acf3a9a.js"
   ]
 }
